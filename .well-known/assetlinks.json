@@ -8,4 +8,14 @@
       "C1:1F:7E:7D:B1:4F:F1:A8:34:8A:7B:67:FD:EC:06:DA:2C:BF:40:42:A6:3D:A0:CB:ED:94:FC:BF:16:29:CD:5A"
     ]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.karajshatra.app",
+    "sha256_cert_fingerprints": [
+      "A5:E4:F5:C1:33:5C:A2:15:01:21:4B:A7:5A:1C:62:8B:9D:93:15:C3:23:74:31:1D:02:60:34:8D:58:CB:EF:A2"
+    ]
+  }
 }]
